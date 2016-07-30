@@ -1,0 +1,11 @@
+{
+	"homepage": "https://minecraft.curseforge.com/projects/mystery-blocks",
+	"promos": {
+		"1.10.2-latest": "1.0.1",
+		"1.10.2-recommended": "1.0.1"
+		},
+	"1.10.2": {
+		"1.0.0": "Created",
+		"1.0.1": "Fixed no drops issue"
+	}
+}
